@@ -3,7 +3,7 @@
 ## 🖼️ Preview
 
 ![Landing page preview](Screenshot1.png)  
-*Check out the live demo [here](not-added-yet) (if available).*
+*Check out the live demo [here](not-added-yet) (will be added soon).*
 
 ## 📝 Project Overview
 
