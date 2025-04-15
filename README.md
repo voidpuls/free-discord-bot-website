@@ -1,4 +1,4 @@
-# RAM Discord Bot Landing Page Template
+# RAM Discord Bot full Landing Page Template
 
 ## 🖼️ Preview
 
