@@ -1,10 +1,5 @@
 # RAM Discord Bot full Landing Page Template
 
-## 🖼️ Preview
-
-![Landing page preview](Screenshot2.png)  
-*Check out the live demo [here](not-added-yet) (will be added soon).*
-
 ## 📝 Project Overview
 
 › This template is a free, sleek, and responsive landing page designed specifically for showcasing your Discord bot. It's easy to customize and perfect for both beginners and experienced developers. With this template, you can present your bot in a professional and engaging way.
@@ -55,3 +50,8 @@
 Discord: [1synom](https://discord.com/users/1197950944776818848)
 
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
+## 🖼️ Preview
+
+![Landing page preview](Screenshot2.png)  
+*Check out the live demo [here](not-added-yet) (will be added soon).*
