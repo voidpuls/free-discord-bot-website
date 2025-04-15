@@ -16,7 +16,7 @@
 - **Bootstrap**
 - **HTML5 & CSS3**
 - **JavaScript**
-- **Mobirise**
+- **Mobirise** (Project file included - if you want, you can import the website and edit it via Mobirise)
 
 ## ⚙️ How to Set Up
 
