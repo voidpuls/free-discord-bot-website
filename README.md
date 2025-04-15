@@ -14,6 +14,7 @@
 - **HTML5 & CSS3**
 - **JavaScript**
 - **Mobirise** (Project file included - if you want, you can import the website and edit it via Mobirise)
+- **Animate.css** (For adding smooth animations to elements)
 
 ## ⚙️ How to Set Up
 
