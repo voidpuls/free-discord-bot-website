@@ -2,7 +2,7 @@
 
 ## 🖼️ Preview
 
-![Landing page preview](Screenshot1.png)  
+![Landing page preview](Screenshot2.png)  
 *Check out the live demo [here](not-added-yet) (will be added soon).*
 
 ## 📝 Project Overview
