@@ -9,6 +9,8 @@
 
 › This template is a free, sleek, and responsive landing page designed specifically for showcasing your Discord bot. It's easy to customize and perfect for both beginners and experienced developers. With this template, you can present your bot in a professional and engaging way.
 
+› Additionally, the template includes a 404.html page for handling errors, ensuring your users are greeted with a custom error page if they visit a non-existent URL.
+
 ## 🛠️ Technologies Utilized
 
 › Here’s a breakdown of the key technologies used to build this template:
